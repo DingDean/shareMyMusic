@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">二向箔</string>
+    <string name="success">成功</string>
+    <string name="error">失败</string>
+</resources>
